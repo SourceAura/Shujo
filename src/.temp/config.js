@@ -3,5 +3,5 @@ export default {
   "siteName": "Shujō",
   "titleTemplate": "%s - Shujō",
   "siteDescription": "SourceAura Says",
-  "version": "0.6.7"
+  "version": "0.6.9"
 }

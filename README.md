@@ -16,10 +16,10 @@
 npm install --global @gridsome/cli
 
 # cd into the project directory
-cd gridsome-forestry-starter
+cd shujo
 
 # install dependencies
-npm install
+yarn
 
 # Start local dev server
 gridsome develop
