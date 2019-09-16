@@ -6,5 +6,5 @@ excerpt: i can think. i can wait. i can fast
 
 ---
 ...it begins here.  
-...no more imposter syndrome. ( gonna write about my experience soon. )  
+...no more IS. ( gonna write about my experience soon. )  
 ...i do this and have been doing this.

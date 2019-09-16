@@ -1,14 +1,15 @@
 export default [
   {
-    path: "/journal/test-1",
-    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
+    path: "/contact",
+    component: () => import(/* webpackChunkName: "page--src-pages-contact-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\pages\\Contact.vue")
+  },
+  {
+    name: "home",
+    path: "/",
+    component: () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\pages\\Index.vue"),
     meta: {
       data: true
     }
-  },
-  {
-    path: "/contact",
-    component: () => import(/* webpackChunkName: "page--src-pages-contact-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\pages\\Contact.vue")
   },
   {
     path: "/journal",
@@ -34,42 +35,6 @@ export default [
   {
     path: "/journal/entry-3",
     component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
-    meta: {
-      data: true
-    }
-  },
-  {
-    path: "/journal/macos-development-environment",
-    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
-    meta: {
-      data: true
-    }
-  },
-  {
-    name: "home",
-    path: "/",
-    component: () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\pages\\Index.vue"),
-    meta: {
-      data: true
-    }
-  },
-  {
-    path: "/journal/test-2",
-    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
-    meta: {
-      data: true
-    }
-  },
-  {
-    path: "/journal/test-3",
-    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
-    meta: {
-      data: true
-    }
-  },
-  {
-    path: "/projects/ios-concept",
-    component: () => import(/* webpackChunkName: "page--src-templates-project-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\ProjectPost.vue"),
     meta: {
       data: true
     }

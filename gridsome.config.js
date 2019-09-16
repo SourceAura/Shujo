@@ -3,10 +3,10 @@
 
 module.exports = {
   siteName: "Shujō",
-  siteUrl: `https://www.dot.com`,
+  siteUrl: `https://www.shujo.netlify.com`,
   // host: "0.0.0.0",
   titleTemplate: "",
-  siteDescription: "SourceAura Says",
+  siteDescription: "Source Says...",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
