@@ -7,7 +7,7 @@
         <p>Leave a note with any inquiries, personal or business...</p>
       </div>
 
-      <form class="contact-form" name="contact">
+      <form class="contact-form" name="contact" netlify>
         <div class="sender-info">
           <div>
             <label for="name" class="label">name:</label>
