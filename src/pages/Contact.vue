@@ -7,7 +7,7 @@
         <p>Leave a note with any inquiries, personal or business...</p>
       </div>
 
-      <form class="contact-form" name="contact" data-netlify="true">
+      <form class="contact-form" name="contact" data-netlify-recaptcha="true" data-netlify="true">
         <div class="sender-info">
           <div>
             <label for="name" class="label">name:</label>
@@ -23,6 +23,7 @@
           <label for="message" class="label">msg:</label>
           <textarea name="message"></textarea>
         </div>
+        <div data-netlify-recaptcha="true"></div>
         <button class="button">Send</button>
         
       </form>
