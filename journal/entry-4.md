@@ -1,10 +1,10 @@
 ---
 date: 2019-09-17
-title: Cloning my favorite Media platform
+title: Creating a crypto-tracker
 author: SourceAura
-excerpt: "...twitter..." 
+excerpt: "...no name yet..." 
 ---
 
-...let try our hand at some sort of platform...
-...loosely based on twitter.
+...let try our hand at building a cryptocurrency tracker/ticker.
+...maybe even web3...
 
