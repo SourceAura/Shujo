@@ -1,17 +1,25 @@
 ---
 date: 2019-09-17
 year: 2019
-title: C.R.U.D.
-category: Identity
+title: Miru, a CryptoTracker
+category: Projects
 thumbnail: "/uploads/dew.jpg"
 categories:
-- photography
-- purple/black
+- VueJs
+- Pusher
+- CryptoCurrency
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
+Miru: CryptoTracker. Built with VueJs and Pusher.  
+Based on [Tutorial.](https://pusher.com/tutorials/cryptocurrency-tracker-vue)  
+
+
 
 ---
-![...](/uploads/dew.jpg)
+![...](/uploads/miru-sc.jpg)  
+
+
+[Link to Project](https://miru.netlify.com)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0695a486-f447-4474-b09b-c33ac43ec4d4/deploy-status)](https://app.netlify.com/sites/miru/deploys)

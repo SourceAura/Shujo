@@ -1,6 +1,6 @@
 export default [
   {
-    path: "/journal/entry-3",
+    path: "/journal/entry-2",
     component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
     meta: {
       data: true
@@ -18,14 +18,14 @@ export default [
     }
   },
   {
-    path: "/journal/entry-2",
+    path: "/journal/entry-1",
     component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
     meta: {
       data: true
     }
   },
   {
-    path: "/journal/entry-1",
+    path: "/journal/entry-3",
     component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
     meta: {
       data: true
