@@ -18,7 +18,7 @@ Based on [Tutorial.](https://pusher.com/tutorials/cryptocurrency-tracker-vue)
 
 
 ---
-![...](/uploads/miru-sc.jpg)  
+![...](/uploads/miru.jpg)  
 
 
 [Link to Project](https://miru.netlify.com)  
