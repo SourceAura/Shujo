@@ -1,32 +1,7 @@
 export default [
   {
-    path: "/journal/entry-3",
-    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
-    meta: {
-      data: true
-    }
-  },
-  {
-    path: "/contact",
-    component: () => import(/* webpackChunkName: "page--src-pages-contact-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\pages\\Contact.vue")
-  },
-  {
-    path: "/journal",
-    component: () => import(/* webpackChunkName: "page--src-pages-journal-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\pages\\Journal.vue"),
-    meta: {
-      data: true
-    }
-  },
-  {
-    path: "/journal/entry-1",
-    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
-    meta: {
-      data: true
-    }
-  },
-  {
-    path: "/journal/entry-2",
-    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
+    path: "/projects/p-j3",
+    component: () => import(/* webpackChunkName: "page--src-templates-project-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\ProjectPost.vue"),
     meta: {
       data: true
     }
@@ -40,8 +15,8 @@ export default [
     }
   },
   {
-    path: "/journal/entry-4",
-    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
+    path: "/journal",
+    component: () => import(/* webpackChunkName: "page--src-pages-journal-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\pages\\Journal.vue"),
     meta: {
       data: true
     }
@@ -61,8 +36,33 @@ export default [
     }
   },
   {
-    path: "/projects/p-j3",
-    component: () => import(/* webpackChunkName: "page--src-templates-project-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\ProjectPost.vue"),
+    path: "/contact",
+    component: () => import(/* webpackChunkName: "page--src-pages-contact-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\pages\\Contact.vue")
+  },
+  {
+    path: "/journal/entry-1",
+    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
+    meta: {
+      data: true
+    }
+  },
+  {
+    path: "/journal/entry-3",
+    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
+    meta: {
+      data: true
+    }
+  },
+  {
+    path: "/journal/entry-2",
+    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
+    meta: {
+      data: true
+    }
+  },
+  {
+    path: "/journal/entry-4",
+    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
     meta: {
       data: true
     }
