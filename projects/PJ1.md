@@ -3,7 +3,7 @@ date: 2019-09-17
 year: 2019
 title: Miru, a CryptoTracker
 category: Projects
-thumbnail: "/uploads/dew.jpg"
+thumbnail: "/uploads/miru.jpg"
 categories:
 - VueJs
 - Pusher
@@ -14,8 +14,6 @@ project_fg_color: ''
 ---
 Miru: CryptoTracker. Built with VueJs and Pusher.  
 Based on [Tutorial.](https://pusher.com/tutorials/cryptocurrency-tracker-vue)  
-
-
 
 ---
 ![...](/uploads/miru.jpg)  
