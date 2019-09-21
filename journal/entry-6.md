@@ -11,4 +11,6 @@ excerpt: ...in order to further sharpen my pure JS skills.
 
 ...shinto japan concept.  
 ...yokai. souls. prayers. shrines. etc.  
-...i'll update this when i get off work later tonight.
+...i'll update this when i get off work later tonight.  
+-  
+...still pondering. 🤔
