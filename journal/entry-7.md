@@ -13,13 +13,13 @@ excerpt: ..\.
 - 
 
 lu·cid·i·ty
-/lo͞oˈsidədē/
+/lo͞oˈsidədē/  
 Learn to pronounce
-noun
+noun  
 1.
 clarity of expression; intelligibility.
-"his lecture combined intellectual lucidity and passion"
+"his lecture combined intellectual lucidity and passion"  
 2.
-LITERARY
+LITERARY  
 brightness; luminosity.
 "the lucidity of his paintings"
