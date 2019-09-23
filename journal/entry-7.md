@@ -1,6 +1,6 @@
 ---
 date: 2019-09-22
-title: ..\.
+title: ../.
 author: SourceAura
 excerpt: ..\.
 
