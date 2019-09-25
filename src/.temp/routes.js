@@ -94,6 +94,13 @@ export default [
     component: () => import(/* webpackChunkName: "page--node-modules-gridsome-app-pages-404-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\node_modules\\gridsome\\app\\pages\\404.vue")
   },
   {
+    path: "/journal/entry-8",
+    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
+    meta: {
+      data: true
+    }
+  },
+  {
     name: "*",
     path: "*",
     component: () => import(/* webpackChunkName: "page--node-modules-gridsome-app-pages-404-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\node_modules\\gridsome\\app\\pages\\404.vue")

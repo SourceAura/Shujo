@@ -1,6 +1,6 @@
 ---
 date: 2019-09-20
-title: Building an immersive incremental JS game.
+title: Building an immersive incremental game. (Vue.js)
 author: SourceAura
 excerpt: ...in order to further sharpen my pure JS skills. 
 
