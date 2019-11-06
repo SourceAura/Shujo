@@ -28,6 +28,6 @@ excerpt:
 ...day dreams...in the night time...  
 ...whenever you're ready's the right time.  
 ...tryna take flight. not the kite kind.  
-...there's something to see. a sight fine.  
+...there's 'sum' thing to see...a sight fine.  
 
 ..."nice flow". that was quite kind.
