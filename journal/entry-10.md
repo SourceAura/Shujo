@@ -1,5 +1,5 @@
 ---
-date: 2019-11-06
+date: 2019-12-09
 title: The spiral...
 author: SourceAura
 excerpt:  
@@ -7,4 +7,4 @@ excerpt:
 ---
 
 
-...
+...grasp vs. gasps. 
