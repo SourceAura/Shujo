@@ -1,12 +1,10 @@
 ---
 date: 2019-11-06
-title: *
+title: The spiral...
 author: SourceAura
-excerpt: ...*. 
+excerpt:  
 
 ---
 
-![...](/src/assets/manekineko-watermark.png)  
-"Maneki neko" via [Yokai.com](http://yokai.com/)  
 
 ...
