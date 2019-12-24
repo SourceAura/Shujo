@@ -1,6 +1,6 @@
 export default [
   {
-    path: "/journal/entry-6",
+    path: "/journal/entry-5",
     component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
     meta: {
       data: true
@@ -13,6 +13,13 @@ export default [
   {
     path: "/journal",
     component: () => import(/* webpackChunkName: "page--src-pages-journal-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\pages\\Journal.vue"),
+    meta: {
+      data: true
+    }
+  },
+  {
+    path: "/journal/entry-10",
+    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
     meta: {
       data: true
     }
@@ -46,16 +53,16 @@ export default [
     }
   },
   {
-    path: "/journal/entry-5",
-    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
+    name: "home",
+    path: "/",
+    component: () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\pages\\Index.vue"),
     meta: {
       data: true
     }
   },
   {
-    name: "home",
-    path: "/",
-    component: () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\pages\\Index.vue"),
+    path: "/journal/entry-6",
+    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
     meta: {
       data: true
     }
@@ -76,13 +83,6 @@ export default [
   },
   {
     path: "/journal/entry-9",
-    component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
-    meta: {
-      data: true
-    }
-  },
-  {
-    path: "/journal/entry-10",
     component: () => import(/* webpackChunkName: "page--src-templates-journal-post-vue" */ "C:\\Users\\Lenovo\\Documents\\GitHub\\Shujo\\src\\templates\\JournalPost.vue"),
     meta: {
       data: true

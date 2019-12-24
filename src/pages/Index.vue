@@ -39,14 +39,14 @@ query Posts {
 
 <script>
 import Hero from "@/components/Hero";
-import Particles from "@/components/Particles"
+// import Particles from "@/components/Particles"
 import ProjectsGrid from "@/components/ProjectsGrid";
 import LatestJournals from "@/components/LatestJournals";
 
 export default {
   components: {
     Hero,
-    Particles,
+    // Particles,
     ProjectsGrid,
     LatestJournals
   }

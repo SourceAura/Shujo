@@ -1,5 +1,5 @@
 {
-  "name": "Sentient",
+  "name": "sentient",
   "private": true,
   "scripts": {
     "dev": "gridsome develop",
