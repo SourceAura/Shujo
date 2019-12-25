@@ -1,7 +1,7 @@
 ---
 date: 2019-10-21
 year: 2019
-title: Tokei - A Clock. 
+title: Tokei - A Clock. ⏳
 category: Projects
 thumbnail: "/uploads/tokei.png"
 categories:
@@ -13,11 +13,13 @@ project_bg_color: ''
 project_fg_color: ''
 ---
 
-
 ![...](/uploads/tokei.png)  
 
 
-Tokei: A Basic calculator, PWA. Built with Vue.js, Vuesax , & 💜.  
+Tokei: A Basic calculator, PWA. Built with Vue.js, Vuesax. ⏳
+
+To-Do: Alarms functionality.
+
 ---
 [Link to Repo](https://github.com/SourceAura/Tokei) 
 
