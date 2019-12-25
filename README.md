@@ -11,21 +11,25 @@
 
 ## Development
 
-```bash
-# install Gridsome globally
-npm install --global @gridsome/cli
+## Build Setup
 
-# cd into the project directory
-cd gridsome-forestry-starter
+``` bash
 
 # install dependencies
-npm install
+npm install || yarn
 
-# Start local dev server
-gridsome develop
+# serve with hot reload at localhost:8080
+npm run dev || yarn dev
+
+# build for production with minification
+npm run build || yarn build
+
 ```
 
-
+# Start local dev server
+gridsome dev
+```
+<!-- 
 ## Forestry (Content Management)
 
 This project has been pre-configured to work with Forestry, just import your repository ✨  
@@ -45,4 +49,4 @@ Import your site in Netlify
 2. Set the build command to: `gridsome build`
 3. Set the publish directory to: `dist`
 
-That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
+That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry. -->

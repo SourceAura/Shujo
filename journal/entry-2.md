@@ -1,13 +1,11 @@
 ---
-date: 2019-09-13
+date: 2019-10-13
 title: ...exhaustion. smh. 
 author: SourceAura
-excerpt: ...can't stop. won't stop...crash out. 
+excerpt: ...can't stop. won't stop...don't crash out. 
 ---
-...malnurishment.  
-...lack of love...  
-...lack of peace...  
-...will and want to recenter. 
+
+...balance in all things.
 <br/>
 
-...we must, due better or die.
+...we must, due better...
