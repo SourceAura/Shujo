@@ -7,14 +7,7 @@
         <p>Leave a note with any inquiries, personal or business...</p>
       </div>
 
-      <form
-        class="contact-form"
-        name="contact"
-        data-netlify="true"
-        data-netlify-recaptcha="true"
-        data-netlify-honeypot="bot-field"
-      >
-        <input type="hidden" name="form-name" value="contact" />
+      <form class="contact-form" name="contact">
         <div class="sender-info">
           <div>
             <label for="name" class="label">name:</label>
@@ -30,15 +23,16 @@
           <label for="message" class="label">msg:</label>
           <textarea name="message"></textarea>
         </div>
-        <div data-netlify-recaptcha="true"></div>
         <button class="button">Send</button>
+        
       </form>
     </div>
   </Layout>
 </template>
 
 <script>
-// import Particles from "@/components/Particles";
+import Particles from "@/components/Particles"
+
 
 export default {
   data() {
@@ -64,23 +58,22 @@ export default {
     };
   },
   components: {
-    // Particles
+    Particles
   }
 };
 </script>
 
 <style scoped>
-@import url(https://fonts.googleapis.com/css?family=Dosis);
 
-h1,
-p,
-label,
-body {
-  font-family: "Dosis", cursive !important;
-}
+@import url(https://fonts.googleapis.com/css?family=Dosis);
+ 
+ h1, p, label, body {
+   font-family: 'Dosis', cursive !important;
+
+ }
 
 .contact-form {
-  z-index: 999;
+  z-index: 9;
 }
 .contact-header {
   padding: 2rem 0 4rem 0;
@@ -144,3 +137,4 @@ textarea {
   border: 1px solid var(--color-base-1);
 }
 </style>
+

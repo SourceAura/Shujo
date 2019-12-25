@@ -64,7 +64,7 @@ a {
 /* body pulse */
 
 .body-pulse {
-    animation: body-pulse 13.3s infinite;
+    animation: body-pulse 7.3s infinite;
 }
 
 @-webkit-keyframes body-pulse {
@@ -74,7 +74,7 @@ a {
         filter: brightness(100%);
     }
 
-    43% {
+    30% {
         background-color: #fff;
         filter: brightness(130%);
     }

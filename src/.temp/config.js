@@ -1,7 +1,7 @@
 export default {
-  "siteUrl": "https://www.shujo.netlify.com",
+  "siteUrl": "https://www.dot.com",
   "siteName": "Shujō",
   "titleTemplate": "%s - Shujō",
-  "siteDescription": "Source Says...",
+  "siteDescription": "SourceAura Says",
   "version": "0.6.9"
 }

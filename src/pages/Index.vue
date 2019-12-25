@@ -1,8 +1,8 @@
 <template>
   <Layout>
     <div class="container">
-      
-      <Particles />
+      <!-- <vue-particles class="full-hieght" color="#dedede"></vue-particles> -->
+      <!-- <Particles /> -->
       <Hero id="forward" />
       <ProjectsGrid id="forward" :projects="$page.projects.edges" />
     </div>

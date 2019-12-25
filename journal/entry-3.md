@@ -1,6 +1,6 @@
 ---
 date: 2019-09-15
-title: In, Time...
+title: Time...
 author: SourceAura
 excerpt: "...just keep swimming." 
 ---
@@ -8,3 +8,4 @@ excerpt: "...just keep swimming."
 
 ...conquering myself is the main objective at present.  
 
+...i will.

@@ -7,5 +7,4 @@
 - gridsome for the win...
 - decide on tailwinds or nah. 
 - keep going no matter what bro. seriously.
-- or what, serve for the rest of your life? lol ^_^
-- good money, ain't great money.
+- or what wash dishes for the rest of your life? lol ^_^
