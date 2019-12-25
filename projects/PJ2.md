@@ -1,7 +1,7 @@
 ---
 date: 2019-10-14
 year: 2019
-title: Dentaku - A Basic calculator. Built with Vue.js, Vuesax , & 💜.
+title: Dentaku - A Basic calculator.
 category: Projects
 thumbnail: "/uploads/dentaku.png"
 categories:
@@ -18,6 +18,8 @@ project_fg_color: ''
 
 
 Dentaku: A Basic calculator, PWA. Built with Vue.js, Vuesax , & 💜.  
+
+May add tip calculation later. 🤔
 ---
 [Link to Repo](https://github.com/SourceAura/Dentaku) 
 

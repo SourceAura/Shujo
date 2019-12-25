@@ -1,7 +1,7 @@
 ---
 date: 2019-10-21
 year: 2019
-title: Tokei - A Basic Clock, PWA. Built with Vue.js & Vuesax. 
+title: Tokei - A Clock. 
 category: Projects
 thumbnail: "/uploads/tokei.png"
 categories:

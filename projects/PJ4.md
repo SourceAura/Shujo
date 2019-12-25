@@ -1,7 +1,7 @@
 ---
 date: 2019-10-21
 year: 2019
-title: Gedachte - Vue Js + Firebase + Quasar - RealTime Chat App. 💭
+title: Gedachte - RealTime Chat. 💭
 category: Projects
 thumbnail: "/uploads/tokei.png"
 categories:
