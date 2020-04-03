@@ -1,5 +1,5 @@
 ---
-date: 2019-11-21
+date: 2019-12-21
 title: Number 4. - Gedachte
 author: SourceAura
 excerpt: "...just keep swimming." 
@@ -7,9 +7,14 @@ excerpt: "...just keep swimming."
 
  ...thoughts. ideas. imagination. 💭
 
+ update: 2020-4-3 11:11amS
+
+ ...it's coming alone pretty nicely, I've set dead a deadline for the end of the summer. 
+ ...gonna push myself and see if i can fully implement the feature set as planned.
+
 ---
 <!-- update thumbnail -->
-![...](/uploads/dentaku.png)  
+<!-- ![...](/uploads/dentaku.png)   -->
 
 
 Dentaku: A Basic calculator, PWA. Built with Vue.js, Vuesax , & 💜.  
